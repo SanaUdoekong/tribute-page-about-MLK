@@ -1,0 +1,61 @@
+img {
+   height: 200px; 
+   width: 200px;
+   float: left;
+   padding-right: 15px;
+   padding-bottom: 10px;
+}
+
+.About {
+    background-color:aliceblue;
+    padding: 10px;
+    border-radius: 16px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+blockquote{
+    clear: both;
+}
+
+body {
+    background-color: rgb(0, 0, 35);
+    padding: 20px;
+}
+
+h1 {
+    color: aquamarine;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+    color: aquamarine;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    background-color:white;
+    padding: 10px;
+    border-radius: 16px;
+    clear: both;
+    
+}
+
+.quote {
+    font-size: 50px;
+}
+
+ul {
+    padding-left: 50px;
+}
+
+figure{
+    margin-left: 10px;
+}
+
+figcaption{
+    font-weight: bold;
+    font-size: 20px;
+}
